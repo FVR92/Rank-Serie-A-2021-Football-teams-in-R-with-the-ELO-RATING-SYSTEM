@@ -181,7 +181,7 @@ arrange(-elo)
 
 print.data.frame(serie_a_teams_2021)
 ```
-![]()
+![](https://github.com/FVR92/Rank-Serie-A-2021-Football-teams-in-R-with-the-ELO-RATING-SYSTEM/blob/main/immages/elorank_pic.JPG)
 
 
 ## Roma is only in the 6 raw.....well i guess I won't get married that soon will I?
