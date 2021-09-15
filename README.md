@@ -195,7 +195,7 @@ Fiorentina <- subset(serie_a_teams_2021, team == "Fiorentina")$elo
 elo.prob(Roma, Fiorentina)
 ```
 
-
+![](https://github.com/FVR92/Rank-Serie-A-2021-Football-teams-in-R-with-the-ELO-RATING-SYSTEM/blob/main/immages/romafiorentina.JPG)
 
 ### Only 56% chance of winning...not bad
 #### (AS ROMA actually won that match 3-1, in a very balanced match with one red card for each team)
