@@ -181,7 +181,7 @@ arrange(-elo)
 
 print.data.frame(serie_a_teams_2021)
 ```
-
+![]()
 
 
 ## Roma is only in the 6 raw.....well i guess I won't get married that soon will I?
